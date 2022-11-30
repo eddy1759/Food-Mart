@@ -1,0 +1,19 @@
+{
+  "name": "food-mart",
+  "version": "1.0.0",
+  "description": "Food Mart API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddy1759/Food-Mart.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddy1759/Food-Mart/issues"
+  },
+  "homepage": "https://github.com/eddy1759/Food-Mart#readme"
+}
